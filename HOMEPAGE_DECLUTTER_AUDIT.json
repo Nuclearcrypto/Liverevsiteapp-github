@@ -1,0 +1,51 @@
+{
+  "app_source": "revnrip_android_GIVEAWAY_V1_project.zip",
+  "site_source": "revnrip_website_GIVEAWAY_V1_package.zip",
+  "patch_report": {
+    "index.html": {
+      "type": "website",
+      "sections_removed_by_detection": [
+        "Start here",
+        "Start here",
+        "Featured Drops",
+        "Featured Drops",
+        "Brand manifesto",
+        "Rev-N-Rip Report",
+        "Rev-N-Rip Report"
+      ],
+      "changed": true,
+      "remaining_requested_terms": [
+        "Start here",
+        "Featured Drop",
+        "Featured Drops",
+        "Vault",
+        "Brand manifesto",
+        "Brand Manifesto",
+        "Rev-N-Rip Report"
+      ]
+    },
+    "app/src/main/assets/index.html": {
+      "type": "app",
+      "sections_removed_by_detection": [
+        "Start here",
+        "Start here",
+        "Featured Drops",
+        "Featured Drops",
+        "Brand manifesto",
+        "Rev-N-Rip Report",
+        "Rev-N-Rip Report"
+      ],
+      "changed": true,
+      "remaining_requested_terms": [
+        "Start here",
+        "Featured Drop",
+        "Featured Drops",
+        "Vault",
+        "Brand manifesto",
+        "Brand Manifesto",
+        "Rev-N-Rip Report"
+      ]
+    }
+  },
+  "note": "Requested homepage sections were removed when detected. If a term appears in product text/nav/other pages, it may remain outside removed homepage sections."
+}

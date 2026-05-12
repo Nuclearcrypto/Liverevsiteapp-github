@@ -1,0 +1,13 @@
+{
+  "app_source": "revnrip_android_LUXURY_LAUNCHPAD_project.zip",
+  "site_source": "revnrip_website_LUXURY_LAUNCHPAD_package.zip",
+  "updated_file": "giveaways.html",
+  "copied_images": [
+    "images/giveaway-page-bg-main.png",
+    "images/giveaway-page-bg-alt.png"
+  ],
+  "android_version": {
+    "versionCode": 15,
+    "versionName": "1.3.13"
+  }
+}

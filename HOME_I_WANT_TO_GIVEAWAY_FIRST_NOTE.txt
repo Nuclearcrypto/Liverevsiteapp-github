@@ -1,0 +1,14 @@
+REV-N-RIP HOME UX UPDATE
+
+Changed:
+- Added a sticky "I want to..." dropdown menu on the homepage.
+- The dropdown immediately routes users to the action they want:
+  Enter giveaway, find a card, make a private deal, sell/trade, shop, or account.
+- Turned the top hero into a Giveaway First action block.
+- Kept login-aware giveaway behavior:
+  logged out = Log In / Create Free Account,
+  logged in = Enter Giveaway,
+  already entered = You're Entered.
+- Applied to both Android app bundled site files and the website package.
+
+The goal is fewer clicks and less navigation clutter.

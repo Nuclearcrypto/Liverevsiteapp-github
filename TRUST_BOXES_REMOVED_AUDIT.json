@@ -1,0 +1,19 @@
+{
+  "app_source": "revnrip_android_GLOBAL_HIDDEN_MENU_project.zip",
+  "site_source": "revnrip_website_GLOBAL_HIDDEN_MENU_package.zip",
+  "app_changed_files": [
+    "index.html"
+  ],
+  "site_changed_files": [
+    "index.html"
+  ],
+  "removed": [
+    "Less scrolling",
+    "Fewer clicks",
+    "Premium flow"
+  ],
+  "android_version": {
+    "versionCode": 18,
+    "versionName": "1.3.17"
+  }
+}

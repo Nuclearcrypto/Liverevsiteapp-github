@@ -1,0 +1,13 @@
+{
+  "app_source": "revnrip_android_GIVEAWAY_IMAGE_ENTRY_FLOW_project.zip",
+  "site_source": "revnrip_website_GIVEAWAY_IMAGE_ENTRY_FLOW_package.zip",
+  "image_included": true,
+  "updated": [
+    "index.html",
+    "HOME_I_WANT_TO_GIVEAWAY_FIRST_NOTE.txt"
+  ],
+  "android_version": {
+    "versionCode": 12,
+    "versionName": "1.3.9"
+  }
+}

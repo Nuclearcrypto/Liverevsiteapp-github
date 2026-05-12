@@ -1,0 +1,10 @@
+{
+  "app_source": "revnrip_android_GIVEAWAY_THEME_STREAMLINED_project.zip",
+  "site_source": "revnrip_website_GIVEAWAY_THEME_STREAMLINED_package.zip",
+  "updated_file": "index.html",
+  "navigation_change": "replaced sticky dropdown with hidden top-right collapsible menu",
+  "android_version": {
+    "versionCode": 15,
+    "versionName": "1.3.14"
+  }
+}

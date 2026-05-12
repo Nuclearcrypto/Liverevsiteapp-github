@@ -1,0 +1,16 @@
+REV-N-RIP SHARE FAB REMOVAL UPDATE
+
+Removed the floating circle share icon / arrow from the app bundle and matching website bundle.
+
+What was removed:
+- app-install-share floating button
+- app-shell share CSS block
+- app-shell share script block
+
+Result:
+- No floating share arrow in the bottom-right corner
+- Clean bottom nav remains in place
+- Giveaway page remains in navigation
+
+Consistency:
+This update was applied to both the Android app project and the website package.

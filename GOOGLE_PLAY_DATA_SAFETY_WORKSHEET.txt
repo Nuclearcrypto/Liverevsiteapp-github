@@ -1,0 +1,51 @@
+REV-N-RIP GOOGLE PLAY DATA SAFETY WORKSHEET
+
+Use this as a guide while completing Google Play Console > App content > Data safety.
+
+App collects user data:
+Yes.
+
+Data types likely collected:
+1. Personal info
+   - Email address
+   - Name / username
+   - Phone number if enabled
+   - Mailing/shipping address for giveaways
+2. User-generated content
+   - Collection submissions
+   - Bounty posts
+   - Deal room content
+   - Messages if messaging is enabled
+   - Uploaded images/files if enabled
+3. App activity
+   - Giveaway entries
+   - In-app actions related to marketplace, bounties, and deal rooms
+4. App info and performance
+   - Diagnostics/crash or basic app performance data if your hosting/backend collects it
+
+Data use:
+- Account management
+- App functionality
+- Giveaway entry tracking and fulfillment
+- User communication
+- Fraud prevention/security
+- App improvement/analytics, if enabled
+
+Data sharing:
+- Do not mark data as sold.
+- Mark sharing only where applicable for service providers/backend tools/payment or commerce platforms.
+- Supabase stores account/profile/giveaway data as your backend provider.
+- External commerce links like eBay/Shopify are separate third-party services.
+
+Data encrypted in transit:
+Yes, if using HTTPS/Supabase/hosted web assets.
+
+Users can request deletion:
+Yes.
+Deletion contact:
+info.revnrip@gmail.com
+
+Privacy Policy URL:
+Use your live website URL ending in /privacy.html after you upload the website package.
+Example:
+https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/privacy.html

@@ -1,0 +1,18 @@
+{
+  "app_source": "revnrip_android_HOMEPAGE_HIDDEN_MENU_project.zip",
+  "site_source": "revnrip_website_HOMEPAGE_HIDDEN_MENU_package.zip",
+  "app_changed_files_count": 1,
+  "site_changed_files_count": 1,
+  "app_changed_files": [
+    "sell.html"
+  ],
+  "site_changed_files": [
+    "sell.html"
+  ],
+  "app_remaining_mentions": {},
+  "site_remaining_mentions": {},
+  "android_version": {
+    "versionCode": 16,
+    "versionName": "1.3.15"
+  }
+}

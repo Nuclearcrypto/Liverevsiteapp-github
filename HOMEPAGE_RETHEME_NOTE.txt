@@ -1,0 +1,13 @@
+REV-N-RIP HOMEPAGE RETHEME UPDATE
+
+Changed:
+- Completely rethought the homepage visual style so it matches the darker, sharper, premium theme used on the rest of the site.
+- Removed the Fast / Saved / Tracked boxes from under the giveaway section completely.
+- Reworked the giveaway hero so it feels visually aligned with the rest of Rev-N-Rip.
+- Kept the sticky "I want to..." quick-action control.
+- Kept giveaway-first login/entry behavior.
+- Homepage quick-action links remain homepage-only.
+
+Applied to both:
+- Android app bundled site files
+- Website package

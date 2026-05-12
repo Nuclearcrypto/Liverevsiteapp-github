@@ -1,0 +1,16 @@
+REV-N-RIP GIVEAWAY PAGE THEME UPDATE
+
+Changed:
+- Rebuilt giveaways.html to match the darker premium Rev-N-Rip style better.
+- Added a custom mechanics-garage / mystery-box visual theme using the newly generated giveaway artwork.
+- Kept the page simple and streamlined with minimal scrolling.
+- Main page structure:
+  1. One large themed hero with the entry CTA
+  2. A short 3-rule strip
+  3. One short how-it-works card
+  4. One small supporting image card
+- Kept the existing giveaway entry logic hooks and menu navigation.
+
+Applied to both:
+- Android app package
+- Website package

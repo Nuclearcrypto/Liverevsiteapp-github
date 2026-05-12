@@ -1,0 +1,13 @@
+{
+  "app_source": "revnrip_android_MODERN_NAV_WITH_BAKED_ICON_project.zip",
+  "site_source": "revnrip_website_MODERN_NAV_package.zip",
+  "app_changed_count": 16,
+  "site_changed_count": 15,
+  "app_has_giveaways": true,
+  "site_has_giveaways": true,
+  "side_nav_removed": true,
+  "version": {
+    "versionCode": 8,
+    "versionName": "1.3.4"
+  }
+}

@@ -1,0 +1,18 @@
+REV-N-RIP GOOGLE PLAY TOKEN UPDATE
+
+Added the required Google Play ownership token file:
+
+app/src/main/assets/adi-registration.properties
+
+Token included:
+DH27JVTP2MZNMAAAAAAAAAAAAA
+
+Build steps:
+1. Open this Android project folder in Android Studio.
+2. Build > Clean Project
+3. Build > Rebuild Project
+4. Build > Generate Signed Bundle / APK
+5. Upload the signed APK/AAB to Google Play Console.
+
+Important:
+For Google Play upload, use a signed release APK/AAB, not a debug APK.

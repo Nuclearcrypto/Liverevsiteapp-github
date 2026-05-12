@@ -1,0 +1,12 @@
+REV-N-RIP FOUR DOORS SECTION REMOVAL UPDATE
+
+Changed:
+- Removed the "Four doors. One tap." section from the homepage.
+- Removed the quick-action boxes below that section.
+- Confirmed the hidden menu includes:
+  - Giveaways
+  - Grail Radar
+  - Sell / Trade
+
+Goal:
+Save homepage space and keep navigation inside the hidden menu for now.

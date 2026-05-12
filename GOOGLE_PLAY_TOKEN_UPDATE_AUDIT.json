@@ -1,0 +1,11 @@
+{
+  "source_project": "revnrip_android_ADMIN_MENU_ONLY_project.zip",
+  "token_file": "app/src/main/assets/adi-registration.properties",
+  "token_written": "DH27JVTP2MZNMAAAAAAAAAAAAA",
+  "token_file_exists": true,
+  "token_file_contents": "DH27JVTP2MZNMAAAAAAAAAAAAA",
+  "android_version": {
+    "versionCode": 21,
+    "versionName": "1.3.20"
+  }
+}

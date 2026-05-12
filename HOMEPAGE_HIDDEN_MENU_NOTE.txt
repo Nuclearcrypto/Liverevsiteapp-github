@@ -1,0 +1,8 @@
+REV-N-RIP HOMEPAGE MENU UPDATE
+
+Changed:
+- Removed the homepage top dropdown command bar.
+- Added a hidden top-right Menu button that expands/collapses when clicked.
+- Menu options appear in a styled popup panel and collapse when clicked again or when clicking outside.
+- Homepage content and giveaway-first flow were preserved.
+- Applied to both Android app and website packages.

@@ -1,0 +1,10 @@
+REV-N-RIP HOME LINKS HOMEPAGE-ONLY UPDATE
+
+Changed:
+- Bottom homepage link/action sections remain on index.html only.
+- Subpages no longer show repeated bottom navigation/action links.
+- Added a small defensive CSS patch on subpages to hide any older bottom nav blocks if they remain cached in the HTML.
+- Applied to both Android app assets and the website package.
+
+Goal:
+Keep navigation clean. The homepage can act as the launch pad, while subpages stay focused on the task the user selected.

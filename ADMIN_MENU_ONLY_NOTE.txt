@@ -1,0 +1,18 @@
+REV-N-RIP ADMIN-ONLY HIDDEN MENU UPDATE
+
+Changed:
+- Added Admin to the hidden navigation menu.
+- Admin link is hidden by default.
+- Admin link only appears for logged-in admin users.
+- Built-in owner/admin email fallback:
+  - xflight1125@gmail.com
+  - info.revnrip@gmail.com
+- Also supports profile-based admin checks:
+  - profiles.is_admin = true
+  - profiles.role = 'admin'
+  - profiles.account_type = 'admin'
+- Included SUPABASE_ADMIN_MENU_SUPPORT.sql to add admin fields if needed.
+
+Applied to both:
+- Android app package
+- Website package

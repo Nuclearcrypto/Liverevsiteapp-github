@@ -1,0 +1,184 @@
+{
+  "app_source": "revnrip_android_PHOTO_TIPS_REMOVED_project.zip",
+  "site_source": "revnrip_website_PHOTO_TIPS_REMOVED_package.zip",
+  "app_changed_files_count": 16,
+  "site_changed_files_count": 15,
+  "app_changed_files": [
+    "admin.html",
+    "auth.html",
+    "bounty.html",
+    "breaks.html",
+    "concierge.html",
+    "conversation.html",
+    "dashboard.html",
+    "garage-bay.html",
+    "giveaways.html",
+    "grail-garage.html",
+    "index.html",
+    "marketplace.html",
+    "messages.html",
+    "offline.html",
+    "sell.html",
+    "syndicate.html"
+  ],
+  "site_changed_files": [
+    "admin.html",
+    "auth.html",
+    "bounty.html",
+    "breaks.html",
+    "concierge.html",
+    "conversation.html",
+    "dashboard.html",
+    "garage-bay.html",
+    "giveaways.html",
+    "grail-garage.html",
+    "index.html",
+    "marketplace.html",
+    "messages.html",
+    "sell.html",
+    "syndicate.html"
+  ],
+  "app_remaining_old_nav_refs": {
+    "admin.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "auth.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "bounty.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "breaks.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "concierge.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "conversation.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "dashboard.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "garage-bay.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "grail-garage.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "marketplace.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "messages.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "offline.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "sell.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "syndicate.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ]
+  },
+  "site_remaining_old_nav_refs": {
+    "admin.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "auth.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "bounty.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "breaks.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "concierge.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "conversation.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "dashboard.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "garage-bay.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "grail-garage.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "marketplace.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "messages.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "sell.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ],
+    "syndicate.html": [
+      "modern-side-nav",
+      "rr-bottom-nav",
+      "mobile-quickbar"
+    ]
+  },
+  "android_version": {
+    "versionCode": 17,
+    "versionName": "1.3.16"
+  }
+}

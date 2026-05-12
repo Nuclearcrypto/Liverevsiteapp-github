@@ -1,0 +1,9 @@
+REV-N-RIP PHOTO TIPS REMOVAL UPDATE
+
+Changed:
+- Removed the "Photo tips" section entirely wherever detected.
+- Removed any menu/nav link to Photo tips if present.
+- Applied to both Android app assets and website package.
+
+Goal:
+Save space and keep the user flow tighter.

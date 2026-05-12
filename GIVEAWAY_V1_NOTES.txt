@@ -1,0 +1,12 @@
+REV-N-RIP GIVEAWAY V1
+
+Added giveaways.html to both the Android app assets and website package.
+
+V1 includes:
+- profile mailing address form
+- one-click Enter Giveaway button
+- LocalStorage demo tracking
+- Supabase SQL for real profile + giveaway entry tracking
+- nav links to Giveaways where possible
+
+Run SUPABASE_GIVEAWAY_V1.sql in Supabase SQL Editor when ready to connect the backend.

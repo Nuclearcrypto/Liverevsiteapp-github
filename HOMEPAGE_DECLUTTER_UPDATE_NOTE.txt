@@ -1,0 +1,15 @@
+REV-N-RIP HOMEPAGE DECLUTTER UPDATE
+
+Removed from homepage where present:
+- Start here section
+- Featured Drop section
+- Vault section
+- Recently added section
+- Brand manifesto
+- The Rev-N-Rip Report
+- Collector Hall of Fame section
+
+Important:
+Only homepage/index.html was targeted.
+Other pages/features remain in place.
+The app package and website package were both updated for consistency.

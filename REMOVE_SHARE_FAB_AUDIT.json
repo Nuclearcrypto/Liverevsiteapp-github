@@ -1,0 +1,45 @@
+{
+  "app_source": "revnrip_android_CLEAN_BOTTOM_NAV_GIVEAWAY_FIXED_project.zip",
+  "site_source": "revnrip_website_CLEAN_BOTTOM_NAV_GIVEAWAY_FIXED_package.zip",
+  "app_changed_files_count": 15,
+  "site_changed_files_count": 14,
+  "app_changed_sample": [
+    "admin.html",
+    "auth.html",
+    "bounty.html",
+    "breaks.html",
+    "concierge.html",
+    "conversation.html",
+    "dashboard.html",
+    "garage-bay.html",
+    "grail-garage.html",
+    "index.html",
+    "marketplace.html",
+    "messages.html",
+    "offline.html",
+    "sell.html",
+    "syndicate.html"
+  ],
+  "site_changed_sample": [
+    "admin.html",
+    "auth.html",
+    "bounty.html",
+    "breaks.html",
+    "concierge.html",
+    "conversation.html",
+    "dashboard.html",
+    "garage-bay.html",
+    "grail-garage.html",
+    "index.html",
+    "marketplace.html",
+    "messages.html",
+    "sell.html",
+    "syndicate.html"
+  ],
+  "app_share_refs_remaining": [],
+  "site_share_refs_remaining": [],
+  "app_version": {
+    "versionCode": 9,
+    "versionName": "1.3.5"
+  }
+}

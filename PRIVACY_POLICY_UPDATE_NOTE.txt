@@ -1,0 +1,12 @@
+REV-N-RIP PRIVACY POLICY UPDATE
+
+Changed:
+- Added privacy.html to the website package.
+- Added privacy.html to the Android app bundled assets.
+- Added Privacy link to hidden menus where present.
+- Included GOOGLE_PLAY_DATA_SAFETY_WORKSHEET.txt for Google Play Console answers.
+- Kept Google Play token file in the Android package.
+
+Next:
+Upload the website package to your live host.
+Use the live privacy.html URL in Google Play Console.

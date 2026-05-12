@@ -1,0 +1,17 @@
+TRUE SINGLE MENU REBUILD
+
+This update replaces the homepage index.html completely with a clean version.
+
+What is fixed:
+- No floating Shop / Sell / Vault buttons on homepage.
+- No Mail / Camera / Social floating stack.
+- Working top-right dropdown menu.
+- Homepage first block is Giveaway Entry.
+- Giveaway page exists.
+- Navigation away from home works through the dropdown menu.
+
+If old icons still show after installing this APK:
+- You are seeing an older installed APK or an older project was built.
+- Uninstall Rev-N-Rip from the phone.
+- Build this package.
+- Install the new APK.

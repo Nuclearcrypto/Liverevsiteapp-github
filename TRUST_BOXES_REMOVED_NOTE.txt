@@ -1,0 +1,12 @@
+REV-N-RIP TRUST BOXES REMOVAL UPDATE
+
+Changed:
+- Removed the homepage boxes:
+  - Less scrolling
+  - Fewer clicks
+  - Premium flow
+- Kept the rest of the homepage and global hidden menu intact.
+- Applied to both Android app assets and website package.
+
+Goal:
+Save space and keep the homepage launch-pad layout tighter.

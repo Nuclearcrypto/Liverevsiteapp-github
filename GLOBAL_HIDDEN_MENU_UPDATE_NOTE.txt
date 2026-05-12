@@ -1,0 +1,14 @@
+REV-N-RIP GLOBAL HIDDEN MENU UPDATE
+
+Changed:
+- Added the same hidden navigation menu to every HTML page.
+- The menu button is always fixed in the same top-right spot.
+- The icon is the same everywhere: ☰
+- Clicking the icon opens the menu.
+- Clicking the icon again collapses the menu.
+- Clicking outside or pressing Escape also closes it.
+- Removed older page-specific menu wrappers and old bottom/side nav systems where detected.
+
+Applied to:
+- Android app bundled HTML assets
+- Website package

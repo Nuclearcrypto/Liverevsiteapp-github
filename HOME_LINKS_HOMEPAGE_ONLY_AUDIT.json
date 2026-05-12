@@ -1,0 +1,43 @@
+{
+  "app_source": "revnrip_android_HOME_I_WANT_TO_GIVEAWAY_FIRST_project.zip",
+  "site_source": "revnrip_website_HOME_I_WANT_TO_GIVEAWAY_FIRST_package.zip",
+  "app_changed_files_count": 15,
+  "site_changed_files_count": 14,
+  "app_changed_sample": [
+    "admin.html",
+    "auth.html",
+    "bounty.html",
+    "breaks.html",
+    "concierge.html",
+    "conversation.html",
+    "dashboard.html",
+    "garage-bay.html",
+    "giveaways.html",
+    "grail-garage.html",
+    "marketplace.html",
+    "messages.html",
+    "offline.html",
+    "sell.html",
+    "syndicate.html"
+  ],
+  "site_changed_sample": [
+    "admin.html",
+    "auth.html",
+    "bounty.html",
+    "breaks.html",
+    "concierge.html",
+    "conversation.html",
+    "dashboard.html",
+    "garage-bay.html",
+    "giveaways.html",
+    "grail-garage.html",
+    "marketplace.html",
+    "messages.html",
+    "sell.html",
+    "syndicate.html"
+  ],
+  "android_version": {
+    "versionCode": 13,
+    "versionName": "1.3.10"
+  }
+}

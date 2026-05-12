@@ -1,0 +1,47 @@
+{
+  "app_source": "revnrip_android_HOMEPAGE_DECLUTTER_project.zip",
+  "site_source": "revnrip_website_HOMEPAGE_DECLUTTER_package.zip",
+  "app_changed_files_count": 16,
+  "site_changed_files_count": 15,
+  "app_changed_sample": [
+    "admin.html",
+    "auth.html",
+    "bounty.html",
+    "breaks.html",
+    "concierge.html",
+    "conversation.html",
+    "dashboard.html",
+    "garage-bay.html",
+    "giveaways.html",
+    "grail-garage.html",
+    "index.html",
+    "marketplace.html",
+    "messages.html",
+    "offline.html",
+    "sell.html",
+    "syndicate.html"
+  ],
+  "site_changed_sample": [
+    "admin.html",
+    "auth.html",
+    "bounty.html",
+    "breaks.html",
+    "concierge.html",
+    "conversation.html",
+    "dashboard.html",
+    "garage-bay.html",
+    "giveaways.html",
+    "grail-garage.html",
+    "index.html",
+    "marketplace.html",
+    "messages.html",
+    "sell.html",
+    "syndicate.html"
+  ],
+  "app_version": {
+    "versionCode": 6,
+    "versionName": "1.3.2"
+  },
+  "giveaways_present_app": true,
+  "giveaways_present_site": true
+}

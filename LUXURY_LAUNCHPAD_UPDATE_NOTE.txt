@@ -1,0 +1,16 @@
+REV-N-RIP LUXURY LAUNCH PAD UPDATE
+
+Changed:
+- Tightened the hero copy.
+- Reduced the lower homepage content so it feels less bulky.
+- Made the quick-action tiles more premium and more aligned with the rest of the site.
+- Kept the giveaway as the main first action.
+- Kept the sticky "I want to..." menu.
+- Kept the Fast / Saved / Tracked boxes removed.
+- Applied to both Android app bundle and website package.
+
+Homepage now has:
+1. Premium giveaway-first hero
+2. Sticky intent-based command bar
+3. Four premium quick-action tiles
+4. A small trust strip

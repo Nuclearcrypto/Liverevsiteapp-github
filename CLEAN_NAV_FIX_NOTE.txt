@@ -1,0 +1,15 @@
+REV-N-RIP CLEAN NAV FIX
+
+This package removes the right-side floating navigation entirely.
+It keeps only one clean bottom navigation bar:
+
+Radar | Bay | Giveaway | Market | Account
+
+The Giveaways page is guaranteed to exist as giveaways.html.
+
+If you still see the side buttons:
+1. You are running an older APK, or
+2. Android Studio opened an older project folder, or
+3. The phone still has the older build installed.
+
+Build this project and install the new APK. If needed, uninstall the old app first, then install this version.

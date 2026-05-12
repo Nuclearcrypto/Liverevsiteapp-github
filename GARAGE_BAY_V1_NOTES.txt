@@ -1,0 +1,18 @@
+REV-N-RIP GARAGE BAY V1
+
+Added garage-bay.html to both app and website packages.
+
+V1 features:
+- Invite by username UI
+- Two-sided My Bay / Their Bay deal builder
+- Cash offer fields
+- Item/value/condition note fields
+- Lock/unlock each side
+- Both sides locked status
+- Move to Proof Bay
+- Copy deal summary
+- Exchange checklist
+- LocalStorage demo persistence
+
+Supabase file included: SUPABASE_GARAGE_BAY_V1.sql
+This sets up the tables and starter RLS policies for real private rooms later.

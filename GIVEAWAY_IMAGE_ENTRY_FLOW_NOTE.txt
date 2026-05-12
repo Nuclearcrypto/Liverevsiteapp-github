@@ -1,0 +1,13 @@
+REV-N-RIP GIVEAWAY IMAGE + ENTRY FLOW UPDATE
+
+What changed:
+- Added the new giveaway garage artwork to both the homepage giveaway section and the dedicated giveaway page.
+- Added auth-aware giveaway widgets.
+- Logged-out users see Log In / Create Account links.
+- Logged-in users see Enter Giveaway.
+- After a valid entry is found or inserted, the button changes to You're Entered and becomes inactive.
+- One entry per logged-in user is enforced by the giveaway_entries unique constraint and the frontend re-check.
+- Included SUPABASE_GIVEAWAY_V2.sql to create the giveaway tables/view if needed.
+
+Important:
+Run SUPABASE_GIVEAWAY_V2.sql in Supabase so entries are compiled in the database.

@@ -1,0 +1,24 @@
+REV-N-RIP BAKED APP ICON UPDATE
+
+This package includes the Rev-N-Rip app icon baked directly into the Android resources.
+
+Source icon used:
+a_dramatic_high_contrast_glossy_app_icon_style_i_1.png
+
+What was added:
+- app/src/main/res/drawable-nodpi/ic_launcher_foreground.png
+- app/src/main/res/drawable/revnrip_baked_launcher_icon.png
+- app/src/main/res/drawable/ic_launcher_background.xml
+- app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+- app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+- legacy PNG launcher icons in mipmap-mdpi/hdpi/xhdpi/xxhdpi/xxxhdpi
+
+You do NOT need to use Android Studio Image Asset for this package.
+
+Build:
+1. Open the project folder containing settings.gradle.
+2. Build > Clean Project
+3. Build > Rebuild Project
+4. Build > Build Bundle(s) / APK(s) > Build APK(s)
+
+If the old icon still shows on your phone, uninstall the old app or restart the launcher/phone.

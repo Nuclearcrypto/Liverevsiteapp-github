@@ -1,0 +1,15 @@
+REV-N-RIP MODERN NAV UPDATE
+
+Updated navigation in both the app and website:
+- Replaced cluttered bottom navigation with a sleek 5-button bottom nav.
+- Added Giveaways as a primary nav option.
+- Added modern right-side quick action buttons:
+  - Giveaways
+  - Garage Bay
+  - Grail Radar
+- Removed older bottom-nav/mobile quickbar blocks where detected.
+- Added active-state highlighting based on current page.
+- App version was bumped for Android update builds.
+
+Primary nav:
+Radar | Bay | Giveaway | Market | Account
